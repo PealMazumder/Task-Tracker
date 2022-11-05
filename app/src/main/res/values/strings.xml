@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TaskTracker</string>
+    <string name="login">Login</string>
+    <string name="enter_info_for_login">Enter info for login</string>
+    <string name="city_remit_logo">City Remit Logo</string>
+    <string name="password">Password</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="today_rate">Today\'s Rate</string>
+    <string name="register">Register</string>
+    <string name="support">Support</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="email">Email</string>
+    <string name="required">Required</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="submit">Submit</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="next">Next</string>
+    <string name="title_activity_sign_up">signUpActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="otp_message">Enter OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="otp">OTP</string>
+    <string name="login_text">Login</string>
+    <string name="no_task_added">No task added</string>
+    <string name="no_account_sign_up">No account? Sign up</string>
+    <string name="have_an_account_login">Have an account? Login</string>
+</resources>
